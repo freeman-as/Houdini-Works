@@ -1,0 +1,7 @@
+backup/
+org/
+render/
+assets/
+capture_org/
+*/geo/**/*
+__move/
