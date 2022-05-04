@@ -217,3 +217,35 @@
 ### 060_work
 
 <img src="captures\060_work_0239.png" alt="060_work_0239" width="640" />
+
+### 061_work
+
+<img src="captures\061_work_0176.png" alt="061_work_0176" width="640" />
+
+### 062_work
+
+<img src="captures\062_work_0040.png" alt="062_work_0040" width="640" />
+
+### 063_work
+
+<img src="captures\063_work_0001.png" alt="063_work_0001" width="640" />
+
+### 064_work
+
+<img src="captures\064_work_0001.png" alt="064_work_0001" width="640" />
+
+### 065_work
+
+<img src="captures\065_work_0079.png" alt="065_work_0079" width="640" />
+
+### 066_work
+
+<img src="captures\066_work_0001.png" alt="066_work_0001" width="640" />
+
+### 067_work
+
+<img src="captures\067_work_0009.png" alt="067_work_0009" width="640" />
+
+### 069_work
+
+<img src="captures\069_work_0001.png" alt="069_work_0001" width="640" />
