@@ -249,3 +249,55 @@
 ### 069_work
 
 <img src="captures\069_work_0001.png" alt="069_work_0001" width="640" />
+
+### 070_work
+
+<img src="captures\070_work_0001.png" alt="070_work_0001" width="640" />
+
+### 071_work
+
+<img src="captures\071_work_0001_rs.png" alt="071_work_0001_rs" width="640" />
+
+### 072_work
+
+<img src="captures\072_work_0240.png" alt="072_work_0240" width="640" />
+
+### 073_work
+
+<img src="captures\073_work_0009.png" alt="073_work_0009" width="640" />
+
+### 074_work
+
+<img src="captures\074_work_0000.png" alt="074_work_0000" width="640" />
+
+### 075_work
+
+<img src="captures\075_work_0066.png" alt="075_work_0066" width="640" />
+
+### 076_work
+
+<img src="captures\076_work_0001.png" alt="076_work_0001" width="640" />
+
+### 077_work
+
+<img src="captures\077_work_0096.png" alt="077_work_0096" width="640" />
+
+### 078_work
+
+<img src="captures\078_work_0096.png" alt="078_work_0096" width="640" />
+
+### 079_work
+
+<img src="captures\079_work_0124.png" alt="079_work_0124" width="640" />
+
+### 080_work
+
+<img src="captures\080_work_0186.png" alt="080_work_0186" width="640" />
+
+### 081_work
+
+<img src="captures\081_work_0059.png" alt="081_work_0059" width="640" />
+
+### 082_work
+
+<img src="captures\062_work_0040.png" alt="062_work_0040" width="640" />
