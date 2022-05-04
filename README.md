@@ -141,3 +141,79 @@
 ### 041_work
 
 <img src="captures\041_work_0205.png" alt="041_work_0205" width="640" />
+
+### 042_work
+
+<img src="captures\042_work_0001.png" alt="042_work_0001" width="640" />
+
+### 043_work
+
+<img src="captures\043_work_0154.png" alt="043_work_0154" width="640" />
+
+### 044_work
+
+<img src="captures\044_work_0001.png" alt="044_work_0001" width="640" />
+
+### 045_work
+
+<img src="captures\045_work_0001.png" alt="045_work_0001" width="640" />
+
+### 046_work
+
+<img src="captures\046_work_0139.png" alt="046_work_0139" width="640" />
+
+### 047_work
+
+<img src="captures\047_work_0001.png" alt="047_work_0001" width="640" />
+
+### 048_work
+
+<img src="captures\048_work_0105.png" alt="048_work_0105" width="640" />
+
+### 049_work
+
+<img src="captures\049_work_0240.png" alt="049_work_0240" width="640" />
+
+### 050_work
+
+<img src="captures\050_work_0240.png" alt="050_work_0240" width="640" />
+
+### 051_work
+
+<img src="captures\051_work_0001.png" alt="051_work_0001" width="640" />
+
+### 052_work
+
+<img src="captures\052_work_0001.png" alt="052_work_0001" width="640" />
+
+### 053_work
+
+<img src="captures\053_work_0001.png" alt="053_work_0001" width="640" />
+
+### 054_work
+
+<img src="captures\054_work_0001.png" alt="054_work_0001" width="640" />
+
+### 055_work
+
+<img src="captures\055_work_0053.png" alt="055_work_0053" width="640" />
+
+### 056_work
+
+<img src="captures\056_work_0001.png" alt="056_work_0001" width="640" />
+
+### 057_work
+
+<img src="captures\057_work_0070.png" alt="057_work_0070" width="640" />
+
+### 058_work
+
+<img src="captures\058_work_0017.png" alt="058_work_0017" width="640" />
+
+### 059_work
+
+<img src="captures\059_work_0240.png" alt="059_work_0240" width="640" />
+
+### 060_work
+
+<img src="captures\060_work_0239.png" alt="060_work_0239" width="640" />
